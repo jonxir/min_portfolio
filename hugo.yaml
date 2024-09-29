@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://jonym.org
 
-languageCode: bn
-title: "John's Blog"
+languageCode: es
+title: "Minerva Serrano"
 
 # Use Hugo modules to add theme
 module:
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/jonxir/min_portfolio
   # Default branch of your Git repo
   gitBranch: main
 
@@ -156,14 +156,14 @@ params:
       enabled: true
       services:
         # Google Analytics
-        google:
-          id: G-H4LBG7NDFZ
+        #google:
+        #  id: G-H4LBG7NDFZ
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
+        goatCounter:
+          code: jonymisreal
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
